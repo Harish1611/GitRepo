@@ -6,3 +6,7 @@ Well Known Programming Languages
  => Python
  => JavaScript
  
+ Front-End Frameworks
+ => Angular
+ => React
+ 
